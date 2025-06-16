@@ -24,7 +24,6 @@ img {
     max-width: 100%;
 }
 
-
 /* Small */
 @media (min-width: 768px) {
     .container {
